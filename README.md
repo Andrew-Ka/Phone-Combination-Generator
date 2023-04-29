@@ -68,6 +68,13 @@ Data Persistence has been done through the use of the System Administration opti
 
 
 
+   
+   
+### Video Report
+[![Phone Suggestion Group Project](https://img.youtube.com/vi/CvlvIX-QIHU/0.jpg)](https://www.youtube.com/watch?v=CvlvIX-QIHU)   
+
+Or click the link:
+https://www.youtube.com/watch?v=CvlvIX-QIHU
 
 
 
